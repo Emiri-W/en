@@ -30,7 +30,7 @@ en-CA:
 en-AU:
   <<: *EN
 
-jp:
+ja:
   <<: *EN
 
 ## => Simplified Chinese
