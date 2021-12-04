@@ -1,14 +1,14 @@
 default:
   text_skin: default
   highlight_theme: default
-  lang: en
+  lang: jp
   paths:
     root: /
     home: /
     archive:  /archive.html
     rss:  /feed.xml
-  mathjax: false
-  mathjax_autoNumber: false
+  mathjax: true
+  mathjax_autoNumber: true
   mermaid: false
   chart: false
   toc:
