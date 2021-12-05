@@ -4,6 +4,7 @@ titles: CV
 show_title: false
 ---
 
+
 &nbsp; <span style="font-size: 125%">渡邊絵美理 (Emiri Watanabe)</span>  
 &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 非線形物理学研究室  
 &nbsp; 博士後期課程１年  

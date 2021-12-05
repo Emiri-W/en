@@ -94,10 +94,10 @@ mermaid: # false (default), true
 chart: # false (default), true
 
 
-## => Paginate
-##############################
-paginate: 8
-paginate_path: /page:num # don't change this unless for special need
+# ## => Paginate
+# ##############################
+# paginate: 8
+# paginate_path: /page:num # don't change this unless for special need
 
 
 ## => Sources
