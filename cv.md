@@ -5,16 +5,16 @@ show_title: false
 ---
 
 
-&nbsp; <span style="font-size: 125%">渡邊絵美理 (Emiri Watanabe)</span>  
-&nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 非線形物理学研究室  
-&nbsp; 博士後期課程１年  
-&nbsp; ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
+渡邊絵美理 (Emiri Watanabe)  
+東京大学 新領域創成科学研究科 複雑理工学専攻 非線形物理学研究室  
+博士後期課程１年  
+ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
 
 
 ### 学歴
 - 2015年4月-2019年3月  &nbsp; 京都大学 理学部
 - 2019年4月-2021年3月  &nbsp; 京都大学 理学研究科 生物科学専攻 修士課程
-- 2021年4月-現在  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 博士後期課程
+- 2021年4月-現在&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 博士後期課程
 
 ### 学術論文
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
