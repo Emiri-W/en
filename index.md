@@ -3,15 +3,20 @@ layout: article
 title: Home
 show_title: false
 ---
-ご訪問ありがとうございます。こちらは渡邊絵美理の個人のウェブサイトです。
+Welcome! This is Emiri Watanabe's personal website
+
+日本語は[こちら](https://emiri-w.github.io/)
 
 
-### お知らせ
-- 2021/12/5 個人のウェブサイトを開設しました！
+### News
+- 2022/1/27 I made my personal website.
 
 
 
 ***
-#### 連絡先
+#### Contact
+
+Adress:
+Kiban-to 5E1, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8561, Japan
+
 Mail: watanabe-emiri[-at-]g.ecc.u-tokyo.ac.jp  
-所在地: 〒277-8561 千葉県柏市柏の葉5-1-5 新領域基盤棟 5E1号室
