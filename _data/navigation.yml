@@ -22,3 +22,9 @@ header:
       en      : &EN       Contact
       # @end locale config
     url: /contact.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       日本語
+      # @end locale config
+    url: https://emiri-w.github.io/
