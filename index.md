@@ -9,6 +9,8 @@ Welcome! This is Emiri Watanabe's personal website
 
 
 ### News
+- 2022/3/15 I will give an oral presentation at The Physical Society of Japan 2022 Annual (77th) Meeting. The title of the presentation is "Estimating model parameters from time series of order parameter
+in weakly coupled oscillators"
 - 2022/1/27 I made my personal website.
 
 
