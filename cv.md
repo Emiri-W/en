@@ -63,7 +63,9 @@ Okinawa, November 2021 (poster presentation)
 1. **Emiri Watanabe**, Hiroshi Kori  
 "Estimating model parameters from time series of order parameter in weakly coupled oscillators"
 The 2022 Annual (77th) Meeting of the Physical Society of Japan
-Virtual, March 2022 (oral presentation)
+Virtual, March 2022 (oral presentation)  
+
+
 ### Grants
 - April 2021-  Research Fellowships for Young Scientists (DC1) from Japan Society for the Promotion of Science
 
