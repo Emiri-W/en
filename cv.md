@@ -7,7 +7,7 @@ show_title: false
 
 Emiri Watanabe  
 Nonlinear physics group, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo  
-First grade in doctoral course  
+2nd grade in doctoral course  
 ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
 
 
@@ -61,8 +61,8 @@ The 28th Annual Meeting of the Japanese Society for Chronobiology
 Okinawa, November 2021 (poster presentation)
 
 1. **Emiri Watanabe**, Hiroshi Kori  
-"Estimating model parameters from time series of order parameter in weakly coupled oscillators"
-The 2022 Annual (77th) Meeting of the Physical Society of Japan
+"Estimating model parameters from time series of order parameter in weakly coupled oscillators"  
+The 2022 Annual (77th) Meeting of the Physical Society of Japan  
 Virtual, March 2022 (oral presentation)  
 
 
