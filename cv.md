@@ -16,7 +16,13 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 - April 2019 - March 2021 &nbsp; Kyoto University, Graduate School of Science, Department of Biological Science (M.S.)
 - April 2021 - present&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The University of Tokyo, Graduate School of Frontier Sciences, Department of Complexity Science and Engineering (Ph.D.)
 
-### Publication
+### Preprint
+1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Shogo Ito, and Tokitaka Oyama  
+   "No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed"  
+   *bioRxiv*, doi: [https://doi.org/10.1101/2022.05.12.491730](https://www.biorxiv.org/content/10.1101/2022.05.12.491730v1)  
+   
+
+### Publication (Refereed)
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
   *Plant and Cell Physiology*, Volume 62, Issue 5, May 2021, Pages 815–826, [https://doi.org/10.1093/pcp/pcab037](https://doi.org/10.1093/pcp/pcab037)
@@ -29,21 +35,21 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 Virtual, June 2021 (poster presentation, refereed)
 
 #### Domestic conferences
-1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
-"A dual-color bioluminescence reporter system to simultaneously monitor expression levels of two genes in plant cells"  
-The 60th Annual Meeting of the Japanese Society of Plant Physiologists  
-Nagoya, March 2019 (poster presentation)  
+
+1. **Emiri Watanabe**, Hiroshi Kori  
+"Estimating model parameters from time series of order parameter in weakly coupled oscillators"  
+The 2022 Annual (77th) Meeting of the Physical Society of Japan  
+Virtual, March 2022 (oral presentation)  
+
+1. **Emiri Watanabe**, Hiroshi Kori  
+"Dependence of desynchronization process on the frequency distribution and coupling strength in a population of phase oscillators"  
+The 28th Annual Meeting of the Japanese Society for Chronobiology  
+Okinawa, November 2021 (poster presentation)  
 
 1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
-"Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* by a dual-color bioluminescence monitoring system"   
-The 26th Annual Meeting of the Japanese Society for Chronobiology  
-Kanazawa, October 2019 (poster presentation)  
-
-1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
-"Monitoring uncoupled circadian rhythms in individual cells of duckweed by co-transfection of luciferase reporters with different colors"  
-The 61st Annual Meeting of the Japanese Society of Plant Physiologists  
-Osaka, March 2020 (poster presentation)
-(※ The conference was cancelled due to the spread of COVID-19.)
+"Analysis on the behavior of uncoupled circadian rhythms detected by a dual-color bioluminescence monitoring system in duckweed plant"  
+The 62nd Annual Meeting of the Japanese Society of Plant Physiologists  
+Virtual, March 2021 (oral presentation)  
 
 1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
 "Uncoupled circadian rhythms in individual cells observed in *Lemna minor*"  
@@ -51,19 +57,23 @@ The 27th Annual Meeting of the Japanese Society for Chronobiology
 Virtual, September 2020 (poster presentation)  
 
 1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
-"Analysis on the behavior of uncoupled circadian rhythms detected by a dual-color bioluminescence monitoring system in duckweed plant"  
-The 62nd Annual Meeting of the Japanese Society of Plant Physiologists  
-Virtual, March 2021 (oral presentation)  
+"Monitoring uncoupled circadian rhythms in individual cells of duckweed by co-transfection of luciferase reporters with different colors"  
+The 61st Annual Meeting of the Japanese Society of Plant Physiologists  
+Osaka, March 2020 (poster presentation)
+(※ The conference was cancelled due to the spread of COVID-19.)  
 
-1. **Emiri Watanabe**, Hiroshi Kori  
-"Dependence of desynchronization process on the frequency distribution and coupling strength in a population of phase oscillators"  
-The 28th Annual Meeting of the Japanese Society for Chronobiology  
-Okinawa, November 2021 (poster presentation)
+1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
+"Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* by a dual-color bioluminescence monitoring system"   
+The 26th Annual Meeting of the Japanese Society for Chronobiology  
+Kanazawa, October 2019 (poster presentation)  
 
-1. **Emiri Watanabe**, Hiroshi Kori  
-"Estimating model parameters from time series of order parameter in weakly coupled oscillators"  
-The 2022 Annual (77th) Meeting of the Physical Society of Japan  
-Virtual, March 2022 (oral presentation)  
+
+1. **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
+"A dual-color bioluminescence reporter system to simultaneously monitor expression levels of two genes in plant cells"  
+The 60th Annual Meeting of the Japanese Society of Plant Physiologists  
+Nagoya, March 2019 (poster presentation)  
+
+
 
 
 ### Grants
