@@ -5,10 +5,11 @@ show_title: false
 ---
 Welcome! This is Emiri Watanabe's personal website
 
-日本語は[こちら](https://emiri-w.github.io/)
+Japanese page is [here](https://emiri-w.github.io/). (日本語は[こちら](https://emiri-w.github.io/))
 
 
 ### News
+- 2022/8/23-25 I will participate in [ネットワーク科学研究会2022(Network Science Conference 2022)](https://www.network-science-seminar.com/activities/2022) at Kyoto. I will give a poster presentation on 8/23.
 - 2022/5/13 We have posted the manuscript for the new article “No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed” in *bioRxiv*. [https://doi.org/10.1101/2022.05.12.491730](https://doi.org/10.1101/2022.05.12.491730)  
 - 2022/3/15 I will give an oral presentation at The Physical Society of Japan 2022 Annual (77th) Meeting. The title of the presentation is "Estimating model parameters from time series of order parameter
 in weakly coupled oscillators"
