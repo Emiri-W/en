@@ -14,7 +14,7 @@ Japanese page is [here](https://emiri-w.github.io/). (日本語は[こちら](ht
 - 2022/12/5 "[Meeting of Young Researchers of Biological Rhythm 2022](https://sites.google.com/view/rhythmwakate2022/home)" will be held.
 - 2022/12/3-4  I will give an oral presentation on the symposium in [The 29th Annual Meeting of the Japanese Society for Chronobiology](http://chronobiology.meiji-lifesci.jp/). I will also give a poster presentation (Poster：P022)。
 - 2022/11/30-12/2 I will give a poster presentation in [The 45th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2022/). The title is "Estimating natural frequency variation and coupling strength from time series of synchronization level in coupled oscillators". 
-- 2022/11/4 Autumn Event organized by the Graduate Student Association will be held.
+- 2022/11/4 [Autumn Event organized by the Graduate Student Association](AutumnEventFlyer_en.pdf) will be held.
 - 2022/8/23-25 I will participate in [ネットワーク科学研究会2022(Network Science Conference 2022)](https://www.network-science-seminar.com/activities/2022) at Kyoto. I will give a poster presentation on 8/23.
 - 2022/5/13 We have posted the manuscript for the new article “No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed” in *bioRxiv*. [https://doi.org/10.1101/2022.05.12.491730](https://doi.org/10.1101/2022.05.12.491730)  
 - 2022/3/15 I will give an oral presentation at The Physical Society of Japan 2022 Annual (77th) Meeting. The title of the presentation is "Estimating model parameters from time series of order parameter
