@@ -36,10 +36,22 @@ Virtual, June 2021 (poster presentation, refereed)
 
 #### Domestic conferences
 
+1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Shogo Ito, Tokitaka Oyama  
+"A non-cell-autonomous rhythm uncoupled from the cellular circadian oscillator of individual cells in plant"  
+The 28th Annual Meeting of the Japanese Society for Chronobiology  
+Tochigi, December 2022 (symposium, poster)
+
+1. **Emiri Watanabe**, Hiroshi Kori  
+"Estimating natural frequency variation and coupling strength from time series of synchronization level in coupled oscillators"  
+The 45th Annual Meeting of the Molecular Biology Society of Japan  
+Chiba, November 2022 (poster, science pitch)  
+(MBSJ2022 Science Pitch Award)  
+
 1. **Emiri Watanabe**, Hiroshi Kori  
 "Estimating model parameters from time series of order parameter in weakly coupled oscillators"  
 The 2022 Annual (77th) Meeting of the Physical Society of Japan  
 Virtual, March 2022 (oral presentation)  
+
 
 1. **Emiri Watanabe**, Hiroshi Kori  
 "Dependence of desynchronization process on the frequency distribution and coupling strength in a population of phase oscillators"  
