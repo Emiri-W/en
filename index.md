@@ -9,7 +9,8 @@ Japanese page is [here](https://emiri-w.github.io/). (日本語は[こちら](ht
 
 
 ### News
-(2022/12/4 updated)
+(2022/3/25 updated)
+- 2023/3/20 My new paper has been accepted!
 - 2022/12/2 I won MBSJ2022 Science Pitch Award in the 45th Annual Meeting of the Molecular Biology Society of Japan!
 - 2022/12/15-16 I will attend to [The 10th meeting of Japanese Society for Quantitative Biology](https://q-bio.jp/index.php?title=Qbio10th_2022). I will give a poster presentation.
 - 2022/12/5 "[Meeting of Young Researchers of Biological Rhythm 2022](https://sites.google.com/view/rhythmwakate2022/home)" will be held.
