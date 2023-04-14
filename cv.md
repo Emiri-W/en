@@ -7,7 +7,7 @@ show_title: false
 
 Emiri Watanabe  
 Nonlinear physics group, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo  
-2nd grade in doctoral course  
+3rd grade in doctoral course  
 ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
 
 
@@ -20,7 +20,7 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 
 1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Yu Horikawa, Tsuyoshi Aiso, Shogo Ito, and Tokitaka Oyama  
    "A non-cell-autonomous circadian rhythm of bioluminescence reporter activities in individual cells in duckweed"  
-   *Plant Physiology*, in press [(preprint version)](https://doi.org/10.1101/2022.05.12.491730) 
+   *Plant Physiology*, in press, [https://doi.org/10.1093/plphys/kiad218](https://doi.org/10.1093/plphys/kiad218)  
 
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
