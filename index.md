@@ -9,7 +9,8 @@ Japanese page is [here](https://emiri-w.github.io/). (日本語は[こちら](ht
 
 
 ### News
-(2023/4/14 updated)
+(2023/5/25 updated)
+- 2023/5-8 I am visiting [Prof. Jordi Garcia-Ojalvo's lab](https://www.upf.edu/web/dsb)  
 - 2023/4/14 I created my [twitter account](https://twitter.com/EmiriWatanabe).
 - 2023/3/20 My new paper has been accepted!
 - 2022/12/2 I won MBSJ2022 Science Pitch Award in the 45th Annual Meeting of the Molecular Biology Society of Japan!
