@@ -35,6 +35,12 @@ Virtual, June 2021 (poster presentation, refereed)
 
 #### Domestic conferences
 
+1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Yu Horikawa, Tsuyoshi Aiso, Shogo Ito, Tokitaka Oyama  
+"A non-cell-autonomous circadian rhythm in duckweed plant"  
+Symposium "Future Direction of Circadian Clock Research from the Viewpoint of Diverse Rhythmic Phenomena"  
+The 61st Annual Meeting of the Biophysical Society of Japan  
+Nagoya, November 2023 (symposium)  
+
 1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Shogo Ito, Tokitaka Oyama  
 "A non-cell-autonomous rhythm uncoupled from the cellular circadian oscillator of individual cells in plant"  
 The 28th Annual Meeting of the Japanese Society for Chronobiology  
