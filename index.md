@@ -9,7 +9,9 @@ Japanese page is [here](https://emiri-w.github.io/). (日本語は[こちら](ht
 
 
 ### News
-(2023/11/1 updated)
+(2024/12/12 updated)
+- 2024/10/10-11 I participate [研究会「理論と実験」2024 (Workshop "Theories and Experiments" 2024)](https://sites.google.com/view/theories-and-experiments2024/)
+- 2024/4/1 I joined the Kuroda Lab in the Department of Biological Sciences, Graduate School of Science, The University of Tokyo, as a Project Assistant Professor.
 - 2023/11/26-27 [Meeting of Young Researchers of Biological Rhythm 2023](https://sites.google.com/view/rhythmwakate2023/home) will be held.
 - 2023/11/15 I will give a talk on the symposium in [The 61st Annual Meeting of the Biophysical Society of Japan](https://www2.aeplan.co.jp/bsj2023/en-index.html).
 - 2023/5-8 I am visiting [Prof. Jordi Garcia-Ojalvo's lab (Dynamical Systems Biology lab)](https://www.upf.edu/web/dsb).  
@@ -28,11 +30,3 @@ in weakly coupled oscillators"
 - 2022/1/27 I made my personal website.
 
 
-
-***
-#### Contact
-
-Adress:
-Kiban-to 5E1, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8561, Japan
-
-Mail: watanabe-emiri[-at-]g.ecc.u-tokyo.ac.jp  

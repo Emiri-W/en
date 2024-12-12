@@ -4,17 +4,25 @@ titles: CV
 show_title: false
 ---
 
+[PDF version](https://emiri-w.github.io/my-cv.pdf)
+
+---
 
 Emiri Watanabe  
-Nonlinear physics group, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo  
-3rd grade in doctoral course  
-ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
+Graduate School of Science, The University of Tokyo  
+Project Assistant Professor  
+[ORCID](https://orcid.org/0000-0002-8014-1115)  
+[researchmap](https://researchmap.jp/emiriwatanabe)  
+[twitter](https://twitter.com/EmiriWatanabe)  
 
 
 ### Education
 - April 2015 - March 2019 &nbsp; Kyoto University, Faculty of Science (B.S.)
 - April 2019 - March 2021 &nbsp; Kyoto University, Graduate School of Science, Department of Biological Science (M.S.)
-- April 2021 - present&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The University of Tokyo, Graduate School of Frontier Sciences, Department of Complexity Science and Engineering (Ph.D.)
+- April 2021 - March 2024 &nbsp; The University of Tokyo, Graduate School of Frontier Sciences, Department of Complexity Science and Engineering (Ph.D.)
+
+### Experience
+- April 2024 - present &nbsp; The University of Tokyo, Graduate School of Sciences, Project Assistant Professor  
 
 ### Publication (Refereed)
 
@@ -25,6 +33,12 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
   *Plant and Cell Physiology*, Volume 62, Issue 5, May 2021, Pages 815–826, [https://doi.org/10.1093/pcp/pcab037](https://doi.org/10.1093/pcp/pcab037)
+  
+### Preprint
+
+1. Yu Horikawa, **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
+  "Model-based analysis of the circadian rhythm generation of bioluminescence reporter activity in duckweed"  
+  bioRxiv, 2024, [https://doi.org/10.1101/2024.05.26.595939](https://doi.org/10.1101/2024.05.26.595939)
 
 ### Presentation
 #### International conferences
